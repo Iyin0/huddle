@@ -98,7 +98,6 @@ body {
 }
 
 .middle {
-    height: calc(100vh * 2.2);
     display: flex;
     flex-direction: column;
     align-items: center;
