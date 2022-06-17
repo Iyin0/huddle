@@ -29,7 +29,6 @@ body {
 
 .landing {
     background-image: url(./images/bg-hero-desktop.svg);
-    height: 100vh;
     padding: 80px;
 }
 
