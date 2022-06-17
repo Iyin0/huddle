@@ -157,8 +157,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* text-align: center; */
-    /* padding: 80px; */
 }
 
 .over h2 {
@@ -286,7 +284,6 @@ footer {
         align-items: center;
         text-align: center;
         margin-right: 0px;
-        /* background-color: aqua; */
     }
 
     .intro h2 {
@@ -357,7 +354,7 @@ footer {
 
     .over {
         width: 90%;
-        left: calc((100vw/2) - 50%);
+        left: 5%;
         height: 200px;
         bottom: -100px;
     }
