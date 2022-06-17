@@ -254,7 +254,7 @@ footer {
     font-size: 15px;
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:800px) {
 
     .landing {
         padding: 20px;
